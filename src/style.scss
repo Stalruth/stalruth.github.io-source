@@ -60,3 +60,7 @@
 @include foundation-visibility-classes;
 // @include foundation-prototype-classes;
 
+a:hover {
+  text-decoration: underline;
+}
+
