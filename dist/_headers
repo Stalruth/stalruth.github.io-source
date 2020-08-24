@@ -1,4 +1,4 @@
-*
+/*
   Content-Security-Policy: default-src https://scotthelme.co.uk
   X-Frame-Options: DENY
   X-Content-Type-Options: nosniff
