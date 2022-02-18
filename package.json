@@ -5,17 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "purge-old": "rm -rf _site/",
-    "copy-assets": "cp -r _static/ _site/",
-    "eleventy-build": "eleventy",
-    "eleventy-serve": "eleventy --serve",
-    "build": "npm-run-all purge-old copy-assets eleventy-build",
-    "serve": "npm-run-all purge-old copy-assets eleventy-serve"
+    "build": "eleventy",
+    "serve": "eleventy --serve"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@11ty/eleventy": "^0.12.1",
     "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
   }
 }
