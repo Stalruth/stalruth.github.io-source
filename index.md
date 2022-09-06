@@ -1,4 +1,10 @@
-This page is a list of tools created by Stuart Rutherford for competitive pokemon players.
+People actually come here?
+
+I'm Stuart Rutherford, mostly a backend software developer who writes frontend gadgets for competitive Pokémon players because they're easier to show off.
+
+Even though everything here is written in Javascript, I actually have experience in plenty of languages including Python, Go and Kotlin.
+
+## Projects
 
 The [Pokemon Set Reverser] takes a Pokemon's Species, Forme, Nature and Stats and calculates how it has been trained - valuable for people wanting to recreate teams they find on the in-game ladder.
 
@@ -12,4 +18,4 @@ I also work on [SableyeBot], a Discord bot that returns information specifically
 [Pokemon Moveset Planner]: https://moveset-planner.stalruth.dev/
 [Pokemon Showdown]: https://pokemonshowdown.com/
 [Pokemon Tournament Resistance Calculator]: https://stalruth.github.io/resistance-calculator
-[SableyeBot]: https://github.com/JsKingBoo/SableyeBot3
+[SableyeBot]: https://sableye-bot.xyz/
