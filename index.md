@@ -1,5 +1,3 @@
-People actually come here?
-
 I'm Stuart Rutherford, mostly a backend software developer who writes frontend gadgets for competitive Pokémon players because they're easier to show off.
 
 Even though everything here is written in Javascript, I actually have experience in plenty of languages including Python, Go and Kotlin.
