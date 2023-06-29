@@ -1,0 +1,57 @@
+:root {
+  --color-link: #2222ff;
+  --color-accent: #9211ee15;
+  font-size: 18px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+blockquote {
+  font-size: large;
+  margin: 0.5rem auto;
+  padding: 1rem;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+code {
+  font-size: 0.75rem;
+}
+
+footer {
+  display: flex;
+}
+
+footer, header, main {
+  width: calc(100% - 2rem);
+}
+
+header {
+  text-align: var(--justify-normal);
+}
+
+main {
+  flex-grow: 1;
+}
+
+p.right {
+  text-align: right;
+}
+
+sup {
+  background-color: unset;
+  border-radius: unset;
+  color: unset;
+  padding: unset;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  border-bottom: 2px solid var(--color-accent);
+}
+
