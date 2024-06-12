@@ -16,7 +16,7 @@ This was written in node.js and is currently hosted on a managed container, thou
 
 ### Top Cut Explorer
 
-The [Top Cut Explorer] allows players to examine the Pokémon sets used at Pokémon Regional Championships in an unprecedented level of detail, owing to Tournament Organisers' publication of partially redacted team lists at the conclusion of each major tournament.
+The [Top Cut Explorer] is a Progressive Web App allows players to examine the Pokémon sets used at Pokémon Regional Championships in an unprecedented level of detail, owing to Tournament Organisers' publication of partially redacted team lists at the conclusion of each major tournament.
 
 It was created in early 2023 as a reponse to the publication of "Open Teamlists" at Pokémon Regional Championships, and continues to be maintained with new features and tournament results added as they become available.
 
