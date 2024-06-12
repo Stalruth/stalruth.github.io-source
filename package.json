@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "mvp.css": "^1.8.0",
+    "mvp.css": "^1.15.0",
     "npm-run-all": "^1.7.0"
   },
   "dependencies": {
