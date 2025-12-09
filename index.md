@@ -22,12 +22,6 @@ It was created in early 2023 as a reponse to the publication of "Open Teamlists"
 
 This was my first project written using Svelte/SvelteKit and its performance has been consistently good (as judged by Core Web Vitals) despite the ever increasing amounts of data getting thrown at it.
 
-### VGC Homemade Standings
-
-My [VGC Homemade Standings site] displays information about Pokémon tournaments as they happen, giving players and spectators up-to-date information about how they and other players are doing in a tournament.  Once teamlists are published for an event they are automatically republished on this website, allowing people to look at a player's run after the fact including their opponents' teams.
-
-This is a fork of the VGC Standings available on [Pokédata] - initally created because that site was thought to be shutting down it has since taken on an identity of its own.
-
 ### Other Projects
 
 These are smaller projects that are generally not being updated as actively as the ones mentioned above.
@@ -41,12 +35,10 @@ The [Pokémon Tournament Resistance Calculator] can be used to calculate your op
 I also sometimes write words on my [blog]! I should do that more.
 
 [blog]: https://blog.stalruth.dev/
-[Pokédata]: https://pokedata.ovh/
 [Pokémon Set Reverser]: https://set-reverser.stalruth.dev/
 [Pokémon Moveset Planner]: https://moveset-planner.stalruth.dev/
 [Pokémon Showdown]: https://pokemonshowdown.com/
 [Pokémon Tournament Resistance Calculator]: https://stalruth.github.io/resistance-calculator
 [Sableye Bot]: https://sableye-bot.xyz/
 [Top Cut Explorer]: https://cut-explorer.stalruth.dev/
-[VGC Homemade Standings site]: https://standings.stalruth.dev/
 
